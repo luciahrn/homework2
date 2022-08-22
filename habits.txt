@@ -4,3 +4,4 @@ Druhý bod zatiaľ neviem posúdiť, pretože som nerobila v praxi a v škole so
 Myslím si, že tretí bod je pravda treba písať kódy jednoducho aby sme im neskôr sami porozumeli, prípadne aby im vedeli rozumieť aj iní.
 Tento bod je podľa mňa pravda, nakoľko ani ja nemám rada keď ma niekto/niečo vyrušuje. 
 Tento bod je pravidvý, pri programovaní sa musí človek neustále učiť.
+Kolaborácia je veľmi dôležitá , najmä pri práci na tímovom projekte takže tento bod je pravda.
